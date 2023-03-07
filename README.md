@@ -87,10 +87,10 @@ global.APIKeys = {
 //other
 global.owner = ['94720626915] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 global.pemilik = ['94720626915] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94720626915'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.premium = ['94712593658'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Nadeesha sl' // Your name ඔබේ නම 
 global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓼𝓵 𝓷𝓪𝓭𝓲𝔂𝓪' //ownernama,ownername
+global.ownernma = '𝓼𝘀𝗹 𝗡𝗔𝗗𝗜𝗬𝗔 ' //ownernama,ownername
 global.packname = 'Queen Elisa Sticker' // Sticker package name 
 global.author = 'Nadiya sl' // Sticker Autor name 
 global.sessionName = 'session'
